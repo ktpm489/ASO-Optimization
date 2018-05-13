@@ -1,0 +1,147 @@
+--- Estimate Value app : thinkmobiles.com/blog/how-much-cost-make-app-like-grindr/
+ --- ASO Preparation---
+1.Create the perfect app title
+2. Key word, why ,how what ,
+3. Writing an amazing app description 
+4. Choosing the appropriate app category
+5.Icon and its important for the app success
+6.Screenshots and videos for the app success
+------
+1. Title
+Things to consider for perfect app title/name : thinking like a user and not the app owner
+
++ Simple, clear and unique
++ Need to tell what the app is about
++ Include brand name/app name
++ 30 chars limits(app store)
++ 50 chars limits (google play)
++ SubTitle Optimize
+
+2. Keywords
+Brainstorms keywords considering
+Should reflect the purpose of the app
+Should reflect app feature
+should reflect usage of the apps
+should reflect what it solves, usecases and values
+for game-reflect character
+3.Place Keywords
++ Apple app store
+app name
+sub title
+keywords
+developer name
+in-app purchase
++ Google play store
+App name
+short Description
+Long description
+--Avoid keywords:
++ Don't mix and match words
++ Don't use the plural words
++ Don't include the same keywords
++ Avoid long keywords
+
+--Description :
++ Describle the problem and solution
++ Readable and engaging description
++ Freature should be highlighted in description
++ First 3 lines should be catchy with "call with action"
+Google play store
+1. 80 chars for short and 4000 for long description
+2. Update without an App release
+3. Keywords need to be used frequently but naturally
+App store
+1 :Don't use unnecessary keywords and pricing to the description2
+2: Needs an App release to update the description
+3: 170 chards for Promo text
+
+--- Thingd to consider for suitable app category:
++ Resonate the app's purpose
++ Putting yourselt in your user's shoes
++ Special categories
+
+
++ App icon sucess:
+Consistent with app design
+Avoid words
+Keep it simple - one idea
+Add borders
+Different formats & size
+  + Website
+  + App
+  + Press release
+  
++  Screenshots and video :
+App key feature
+Tell a story
+Localization
+Right dimensions for different screens
+Show the user experience
+Localization
+First few seconds
+
+
+======ASO Discovery===========
++ Tool:
+Google keyword planner
+Ahrefs https://ahrefs.com/keywords-explorer
+KeywordTool.io https://keywordtool.io/
+SMERush : https://www.semrush.com/features/keyword-research/
+
+Firebase Deep Links, Dynamic Links and App Invites
+
++ Dynamic linking :
+ - App Install
+ - On Boarding the app
+ - Deskop to App : Email to Self
+ - Moble to App User
+ - App to another App
+ 
+ +  Smart Banner
+ Look and feel
+ Trust
+ Intelligent
+ + App index with firebase
+ 
+ ASO -Max Optimization
+ Link :
+ https://thetool.io/aso-factors-trends
+ https://www.storemaven.com/ios-11-app-store-guide/
+ https://thetool.io/2018/aso-tips
+ 
+ Ranking Factor:
+App Name/ Title
+Rating and Reviews
+Download and engagements
+Updates Frequency
+App Category
+App Description
+BackLinks
+
+---ASO Matric:
+ 1. Discoverability Metric
+  + Keyword Ranking
+  + Category Ranking
+  + Conversiion Rating (App title, description, screen shots, videos (a/b testing)
+  2. App Growth Metric :
+   Install
+   Monthly Active Users
+   Daily Active Users
+   Platform Metric
+    -Device 
+	-OS
+   Feedback/ Star Rating
+ 3/ Succession Metric:
+	Engagement with App: 
+	 + Time Spent 
+	 + Coming back
+	Retention Rate: 
+	 % user using from date first install
+ 4/ Monetization Metric:
+	Average Revenue Per Users
+	Revenue for app overall
+	AcquisitionCost
+	Lifetime Value(LTV)
+	
+	
+ 
